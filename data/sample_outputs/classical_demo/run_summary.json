@@ -1,0 +1,122 @@
+[
+  {
+    "image": "data/sample_inputs/00_full.png",
+    "output_dir": "data/sample_outputs/classical_demo/00_full",
+    "ms": 1982.100920999983,
+    "mask_area_px": 246066,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/00_full/00_full_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/00_full/00_full_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/00_full/00_full_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/00_full/00_full_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/00_full/00_full_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/00_full/00_full_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/00_full/00_full_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/01_dog_crop.png",
+    "output_dir": "data/sample_outputs/classical_demo/01_dog_crop",
+    "ms": 258.08194499995807,
+    "mask_area_px": 233431,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/01_dog_crop/01_dog_crop_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/02_person_crop.png",
+    "output_dir": "data/sample_outputs/classical_demo/02_person_crop",
+    "ms": 146.90291799979605,
+    "mask_area_px": 186820,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/02_person_crop/02_person_crop_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/03_far_blurred.png",
+    "output_dir": "data/sample_outputs/classical_demo/03_far_blurred",
+    "ms": 165.75820299999577,
+    "mask_area_px": 95032,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/03_far_blurred/03_far_blurred_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/04_rotated.png",
+    "output_dir": "data/sample_outputs/classical_demo/04_rotated",
+    "ms": 254.63567500014506,
+    "mask_area_px": 180641,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/04_rotated/04_rotated_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/04_rotated/04_rotated_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/04_rotated/04_rotated_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/04_rotated/04_rotated_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/04_rotated/04_rotated_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/04_rotated/04_rotated_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/04_rotated/04_rotated_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/05_noisy.png",
+    "output_dir": "data/sample_outputs/classical_demo/05_noisy",
+    "ms": 183.91734800002268,
+    "mask_area_px": 173832,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/05_noisy/05_noisy_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/05_noisy/05_noisy_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/05_noisy/05_noisy_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/05_noisy/05_noisy_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/05_noisy/05_noisy_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/05_noisy/05_noisy_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/05_noisy/05_noisy_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/06_gamma.png",
+    "output_dir": "data/sample_outputs/classical_demo/06_gamma",
+    "ms": 263.070161999849,
+    "mask_area_px": 209651,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/06_gamma/06_gamma_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/06_gamma/06_gamma_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/06_gamma/06_gamma_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/06_gamma/06_gamma_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/06_gamma/06_gamma_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/06_gamma/06_gamma_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/06_gamma/06_gamma_07_side_by_side.png"
+    }
+  },
+  {
+    "image": "data/sample_inputs/07_two_dogs_synthetic.png",
+    "output_dir": "data/sample_outputs/classical_demo/07_two_dogs_synthetic",
+    "ms": 98.98819700015338,
+    "mask_area_px": 171998,
+    "saved": {
+      "original": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_01_original.png",
+      "gray": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_02_gray.png",
+      "threshold": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_03_threshold.png",
+      "morph": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_04_morph.png",
+      "mask": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_05_mask.png",
+      "overlay": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_06_overlay.png",
+      "side_by_side": "data/sample_outputs/classical_demo/07_two_dogs_synthetic/07_two_dogs_synthetic_07_side_by_side.png"
+    }
+  }
+]

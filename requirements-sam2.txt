@@ -1,0 +1,5 @@
+# SAM2 comparison script dependencies (NOT required for the classical OpenCV-only solution)
+torch>=2.5.1
+torchvision>=0.20.1
+sam2>=1.1.0
+huggingface_hub>=0.20
