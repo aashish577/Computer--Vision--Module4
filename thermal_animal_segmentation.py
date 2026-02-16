@@ -1,22 +1,4 @@
-#!/usr/bin/env python3
-"""
-CSc 8830 (Computer Vision) — Module 4 Assignment
-Classical (non-ML) thermal animal boundary extraction using OpenCV.
 
-How to run (single image):
-    python thermal_animal_segmentation.py --input data/sample_inputs/01_dog_crop.png --output_dir outputs/classical --show 0
-
-How to run (folder):
-    python thermal_animal_segmentation.py --input data/sample_inputs --output_dir outputs/classical
-
-Key idea:
-Thermal pseudo-color images (Spectra palette) typically exhibit a *bimodal-ish* intensity distribution:
-cool background is darker, warm bodies are brighter. Otsu thresholding often separates these modes well.
-We then clean the binary mask with morphology and extract precise object contours.
-
-IMPORTANT (assignment constraint):
-- This script uses ONLY OpenCV + NumPy (classical CV). No deep learning / ML models.
-"""
 
 from __future__ import annotations
 

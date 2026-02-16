@@ -1,21 +1,4 @@
-#!/usr/bin/env python3
-"""
-CSc 8830 (Computer Vision) — Module 4 Assignment
-SAM2 comparison script (allowed to use deep learning here ONLY for comparison).
 
-This script:
-1) Runs the classical OpenCV pipeline to get an initial coarse mask.
-2) Derives a box prompt (and optional point prompts) from that mask.
-3) Runs SAM2 to obtain a refined segmentation.
-4) Saves side-by-side visual comparisons: Classical vs SAM2.
-
-Usage (folder):
-    python sam2_comparison.py --input data/sample_inputs --output_dir outputs/sam2 --sam2_model facebook/sam2-hiera-large
-
-Notes:
-- SAM2 installation is heavier (PyTorch + SAM2). See README.
-- SAM2 is not used in the core required solution (thermal_animal_segmentation.py).
-"""
 
 from __future__ import annotations
 
