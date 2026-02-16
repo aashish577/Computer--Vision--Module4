@@ -2,7 +2,7 @@
   {
     "image": "data/sample_inputs/00_full.png",
     "output_dir": "outputs/classical/00_full",
-    "ms": 50.26666699995985,
+    "ms": 64.86941699768067,
     "mask_area_px": 246066,
     "saved": {
       "original": "outputs/classical/00_full/00_full_01_original.png",
@@ -17,7 +17,7 @@
   {
     "image": "data/sample_inputs/01_dog_crop.png",
     "output_dir": "outputs/classical/01_dog_crop",
-    "ms": 46.82099999990896,
+    "ms": 57.13287500111619,
     "mask_area_px": 233431,
     "saved": {
       "original": "outputs/classical/01_dog_crop/01_dog_crop_01_original.png",
@@ -32,7 +32,7 @@
   {
     "image": "data/sample_inputs/02_person_crop.png",
     "output_dir": "outputs/classical/02_person_crop",
-    "ms": 25.451333000091836,
+    "ms": 22.760708001442254,
     "mask_area_px": 186820,
     "saved": {
       "original": "outputs/classical/02_person_crop/02_person_crop_01_original.png",
@@ -47,7 +47,7 @@
   {
     "image": "data/sample_inputs/03_far_blurred.png",
     "output_dir": "outputs/classical/03_far_blurred",
-    "ms": 12.063417001627386,
+    "ms": 12.202166999486508,
     "mask_area_px": 95032,
     "saved": {
       "original": "outputs/classical/03_far_blurred/03_far_blurred_01_original.png",
@@ -62,7 +62,7 @@
   {
     "image": "data/sample_inputs/04_rotated.png",
     "output_dir": "outputs/classical/04_rotated",
-    "ms": 25.171958997816546,
+    "ms": 24.832667000737274,
     "mask_area_px": 180641,
     "saved": {
       "original": "outputs/classical/04_rotated/04_rotated_01_original.png",
@@ -77,7 +77,7 @@
   {
     "image": "data/sample_inputs/05_noisy.png",
     "output_dir": "outputs/classical/05_noisy",
-    "ms": 26.388332997157704,
+    "ms": 26.540041999396635,
     "mask_area_px": 173832,
     "saved": {
       "original": "outputs/classical/05_noisy/05_noisy_01_original.png",
@@ -92,7 +92,7 @@
   {
     "image": "data/sample_inputs/06_gamma.png",
     "output_dir": "outputs/classical/06_gamma",
-    "ms": 25.69091700206627,
+    "ms": 27.485875001730165,
     "mask_area_px": 209651,
     "saved": {
       "original": "outputs/classical/06_gamma/06_gamma_01_original.png",
@@ -107,7 +107,7 @@
   {
     "image": "data/sample_inputs/07_two_dogs_synthetic.png",
     "output_dir": "outputs/classical/07_two_dogs_synthetic",
-    "ms": 16.225540999585064,
+    "ms": 15.105375001439825,
     "mask_area_px": 171998,
     "saved": {
       "original": "outputs/classical/07_two_dogs_synthetic/07_two_dogs_synthetic_01_original.png",

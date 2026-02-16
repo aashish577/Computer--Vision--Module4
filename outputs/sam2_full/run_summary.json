@@ -1,0 +1,2844 @@
+[
+  {
+    "image": "data/full_dataset/test/IMG_0002 4_jpg.rf.6d1c60bf9f8779f13291c0547ea1ff70.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0002_4_jpg.rf.6d1c60bf9f8779f13291c0547ea1ff70",
+    "classical_ms": 13.679084000614239,
+    "sam2_ms": 2786.6782919991238,
+    "iou_classical_vs_sam2": 0.805048822437996,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      408
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0006 5_jpg.rf.cd46e6a862d6ffb7fce6795067ce7cc7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0006_5_jpg.rf.cd46e6a862d6ffb7fce6795067ce7cc7",
+    "classical_ms": 6.110624999564607,
+    "sam2_ms": 1462.5996249997115,
+    "iou_classical_vs_sam2": 0.7503174295736599,
+    "box_xyxy": [
+      0,
+      0,
+      262,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0009_jpg.rf.ecdb212f7d7796e682a87e2e1d6e907e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0009_jpg.rf.ecdb212f7d7796e682a87e2e1d6e907e",
+    "classical_ms": 6.4395829977001995,
+    "sam2_ms": 1330.0551659995108,
+    "iou_classical_vs_sam2": 0.7679351734055876,
+    "box_xyxy": [
+      235,
+      0,
+      415,
+      239
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0012 2_jpg.rf.4c8e033ea0189ebd28c4e3751edd7a6a.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0012_2_jpg.rf.4c8e033ea0189ebd28c4e3751edd7a6a",
+    "classical_ms": 9.469624998018844,
+    "sam2_ms": 1303.7476669996977,
+    "iou_classical_vs_sam2": 0.6307346002337506,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0022_jpg.rf.c89662890a0f5d8a915677ed21165d2b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0022_jpg.rf.c89662890a0f5d8a915677ed21165d2b",
+    "classical_ms": 8.781625001574866,
+    "sam2_ms": 1283.1607090010948,
+    "iou_classical_vs_sam2": 0.8082284657660813,
+    "box_xyxy": [
+      0,
+      0,
+      339,
+      403
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0023 3_jpg.rf.ac45d9a3e591d1377f50b25c2415a5b7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0023_3_jpg.rf.ac45d9a3e591d1377f50b25c2415a5b7",
+    "classical_ms": 9.823250002227724,
+    "sam2_ms": 1297.6881670001603,
+    "iou_classical_vs_sam2": 0.911173342176684,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      231
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0024 2_jpg.rf.7f92f2bd29719c59c66c307fe5c3df44.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0024_2_jpg.rf.7f92f2bd29719c59c66c307fe5c3df44",
+    "classical_ms": 7.887583000410814,
+    "sam2_ms": 1324.6697499998845,
+    "iou_classical_vs_sam2": 0.687684141741844,
+    "box_xyxy": [
+      0,
+      81,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0027_jpg.rf.888f9a5d05a43267ac39a7c09cd0fc4b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0027_jpg.rf.888f9a5d05a43267ac39a7c09cd0fc4b",
+    "classical_ms": 10.164209001231939,
+    "sam2_ms": 1323.3142079989193,
+    "iou_classical_vs_sam2": 0.802516857793231,
+    "box_xyxy": [
+      0,
+      0,
+      329,
+      364
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0031 2_jpg.rf.0872acd4c7cf3d7de868b3ab2d7e464f.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0031_2_jpg.rf.0872acd4c7cf3d7de868b3ab2d7e464f",
+    "classical_ms": 11.33970900264103,
+    "sam2_ms": 1374.6391249987937,
+    "iou_classical_vs_sam2": 0.043987814853467345,
+    "box_xyxy": [
+      0,
+      87,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0033 2_jpg.rf.1ce012dff1ceb8d37c2ee1edd005843b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0033_2_jpg.rf.1ce012dff1ceb8d37c2ee1edd005843b",
+    "classical_ms": 9.25804100188543,
+    "sam2_ms": 1340.7851670017408,
+    "iou_classical_vs_sam2": 0.7903260592514088,
+    "box_xyxy": [
+      0,
+      32,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0037 2_jpg.rf.a1d14bb4884fa1a64164b3bf6b187746.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0037_2_jpg.rf.a1d14bb4884fa1a64164b3bf6b187746",
+    "classical_ms": 6.9035829983477015,
+    "sam2_ms": 1281.7104999994626,
+    "iou_classical_vs_sam2": 0.9624420000648795,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      179
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0040 2_jpg.rf.94ca5121f351ee259e584a41b26e18e4.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0040_2_jpg.rf.94ca5121f351ee259e584a41b26e18e4",
+    "classical_ms": 6.223208001756575,
+    "sam2_ms": 1366.3072499984992,
+    "iou_classical_vs_sam2": 0.6144570275363909,
+    "box_xyxy": [
+      0,
+      113,
+      386,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0043 2_jpg.rf.c1e7848d52119882bc38460c8de32a05.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0043_2_jpg.rf.c1e7848d52119882bc38460c8de32a05",
+    "classical_ms": 9.432916998775909,
+    "sam2_ms": 1289.5132500016189,
+    "iou_classical_vs_sam2": 0.8066603832861978,
+    "box_xyxy": [
+      41,
+      114,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0045_jpg.rf.ad3c08866b3f0999d4d2e8dde9886246.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0045_jpg.rf.ad3c08866b3f0999d4d2e8dde9886246",
+    "classical_ms": 8.791958000074374,
+    "sam2_ms": 1324.3003749994386,
+    "iou_classical_vs_sam2": 0.9105145729778452,
+    "box_xyxy": [
+      0,
+      53,
+      391,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0059_jpg.rf.ffed5e3340bcdbc728dabf6c37bc9607.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0059_jpg.rf.ffed5e3340bcdbc728dabf6c37bc9607",
+    "classical_ms": 11.702458999934606,
+    "sam2_ms": 1286.753291999048,
+    "iou_classical_vs_sam2": 0.6690805523971357,
+    "box_xyxy": [
+      0,
+      17,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0060_jpg.rf.f2ca14907be0dffbc84fe1ee02c92731.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0060_jpg.rf.f2ca14907be0dffbc84fe1ee02c92731",
+    "classical_ms": 9.772334000444971,
+    "sam2_ms": 1302.1790419988974,
+    "iou_classical_vs_sam2": 0.6870862573907202,
+    "box_xyxy": [
+      0,
+      10,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0106_jpg.rf.a36615f0dcd4336c8340cf7808243766.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0106_jpg.rf.a36615f0dcd4336c8340cf7808243766",
+    "classical_ms": 8.083875000011176,
+    "sam2_ms": 1322.5238749982964,
+    "iou_classical_vs_sam2": 0.9121338912133723,
+    "box_xyxy": [
+      0,
+      0,
+      232,
+      315
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0113_jpg.rf.518ce21582555915f942463375a135b0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0113_jpg.rf.518ce21582555915f942463375a135b0",
+    "classical_ms": 8.723665996512864,
+    "sam2_ms": 1343.7735410007008,
+    "iou_classical_vs_sam2": 0.6797850950921033,
+    "box_xyxy": [
+      0,
+      199,
+      357,
+      358
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0114_jpg.rf.09289782690848a6c751392eb25a337d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0114_jpg.rf.09289782690848a6c751392eb25a337d",
+    "classical_ms": 7.437542000843678,
+    "sam2_ms": 1352.817374998267,
+    "iou_classical_vs_sam2": 0.7725720255554954,
+    "box_xyxy": [
+      0,
+      95,
+      253,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/test/IMG_0115_jpg.rf.d98b284276fedb91c8870cb59fba988a.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0115_jpg.rf.d98b284276fedb91c8870cb59fba988a",
+    "classical_ms": 10.02166699981899,
+    "sam2_ms": 1340.4835410001397,
+    "iou_classical_vs_sam2": 0.7594401313409472,
+    "box_xyxy": [
+      20,
+      84,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0001 2_jpg.rf.a64c70befa56fe10f85e72fee63c4c01.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0001_2_jpg.rf.a64c70befa56fe10f85e72fee63c4c01",
+    "classical_ms": 7.6114580006105825,
+    "sam2_ms": 1329.6572920007748,
+    "iou_classical_vs_sam2": 0.7481962213626758,
+    "box_xyxy": [
+      0,
+      188,
+      415,
+      380
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0001 4_jpg.rf.4602a05ba82cd5424af446c094c58f59.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0001_4_jpg.rf.4602a05ba82cd5424af446c094c58f59",
+    "classical_ms": 8.627125000202795,
+    "sam2_ms": 1322.1777500002645,
+    "iou_classical_vs_sam2": 0.8274826078926204,
+    "box_xyxy": [
+      0,
+      0,
+      350,
+      264
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0001_jpg.rf.c609b93c832da7d81cd342c414c8fe35.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0001_jpg.rf.c609b93c832da7d81cd342c414c8fe35",
+    "classical_ms": 5.9535000000323635,
+    "sam2_ms": 1393.3033330031321,
+    "iou_classical_vs_sam2": 0.87776393266386,
+    "box_xyxy": [
+      0,
+      0,
+      204,
+      278
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0002 2_jpg.rf.b591a520d7e4532ea310fec86b8c3f02.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0002_2_jpg.rf.b591a520d7e4532ea310fec86b8c3f02",
+    "classical_ms": 7.714540999586461,
+    "sam2_ms": 1339.8464169986255,
+    "iou_classical_vs_sam2": 0.8268953095461256,
+    "box_xyxy": [
+      31,
+      97,
+      388,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0002 3_jpg.rf.5926b8d930f26a31af2f4e446163c016.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0002_3_jpg.rf.5926b8d930f26a31af2f4e446163c016",
+    "classical_ms": 7.666792000236455,
+    "sam2_ms": 1348.3593329983705,
+    "iou_classical_vs_sam2": 0.7297770287788342,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0003 3_jpg.rf.440d55075470010e5c2668c8d77f42d4.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0003_3_jpg.rf.440d55075470010e5c2668c8d77f42d4",
+    "classical_ms": 8.693166997545632,
+    "sam2_ms": 1394.4952079982613,
+    "iou_classical_vs_sam2": 0.9129480197313761,
+    "box_xyxy": [
+      113,
+      183,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0003 4_jpg.rf.f9cf0333c4f525754b9c6212805a5bec.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0003_4_jpg.rf.f9cf0333c4f525754b9c6212805a5bec",
+    "classical_ms": 9.521791998849949,
+    "sam2_ms": 1358.8465829998313,
+    "iou_classical_vs_sam2": 0.8611143850550877,
+    "box_xyxy": [
+      0,
+      72,
+      415,
+      396
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0003 5_jpg.rf.4a67a32b3ecc5e10ecfe98f8ca57b243.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0003_5_jpg.rf.4a67a32b3ecc5e10ecfe98f8ca57b243",
+    "classical_ms": 5.5894580000313,
+    "sam2_ms": 1328.0425829980231,
+    "iou_classical_vs_sam2": 0.8146289817712753,
+    "box_xyxy": [
+      208,
+      0,
+      315,
+      309
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0003_jpg.rf.af0b4202596e26ce6a457ba57c31af70.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0003_jpg.rf.af0b4202596e26ce6a457ba57c31af70",
+    "classical_ms": 5.99970900293556,
+    "sam2_ms": 1345.9650839977257,
+    "iou_classical_vs_sam2": 0.8363398448452736,
+    "box_xyxy": [
+      0,
+      0,
+      115,
+      253
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0004 2_jpg.rf.70393df2ea42aae5b9f7ce486efd7048.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0004_2_jpg.rf.70393df2ea42aae5b9f7ce486efd7048",
+    "classical_ms": 8.526624998921761,
+    "sam2_ms": 1382.6844579998578,
+    "iou_classical_vs_sam2": 0.8802391954335258,
+    "box_xyxy": [
+      44,
+      53,
+      346,
+      359
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0004 3_jpg.rf.98a6a0ede45ecddb3c3da7c1e984d663.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0004_3_jpg.rf.98a6a0ede45ecddb3c3da7c1e984d663",
+    "classical_ms": 6.5967080008704215,
+    "sam2_ms": 1349.7181669990823,
+    "iou_classical_vs_sam2": 0.594594594594572,
+    "box_xyxy": [
+      0,
+      99,
+      289,
+      289
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0004 4_jpg.rf.a4bbc60eb95b6ce5f40ad0e7f4237b01.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0004_4_jpg.rf.a4bbc60eb95b6ce5f40ad0e7f4237b01",
+    "classical_ms": 8.587042000726797,
+    "sam2_ms": 1346.1383750000095,
+    "iou_classical_vs_sam2": 0.8217937481741042,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      349
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0004 5_jpg.rf.d0cfba63244908e42219de8f45915dce.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0004_5_jpg.rf.d0cfba63244908e42219de8f45915dce",
+    "classical_ms": 5.913332999625709,
+    "sam2_ms": 1351.9012090000615,
+    "iou_classical_vs_sam2": 0.6690357191984654,
+    "box_xyxy": [
+      205,
+      0,
+      314,
+      336
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0004_jpg.rf.5fbae8d6afdd719fd4e79f278644b961.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0004_jpg.rf.5fbae8d6afdd719fd4e79f278644b961",
+    "classical_ms": 8.630000000266591,
+    "sam2_ms": 1420.5391670002427,
+    "iou_classical_vs_sam2": 0.5978988024837318,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0005 2_jpg.rf.224a25e21ebb388d22f3e1bf0775636e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0005_2_jpg.rf.224a25e21ebb388d22f3e1bf0775636e",
+    "classical_ms": 8.972084000561154,
+    "sam2_ms": 1350.617042000522,
+    "iou_classical_vs_sam2": 0.5295498815477702,
+    "box_xyxy": [
+      0,
+      117,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0005 3_jpg.rf.5945f67a18b71dd992f09b16d92cae03.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0005_3_jpg.rf.5945f67a18b71dd992f09b16d92cae03",
+    "classical_ms": 7.703082999796607,
+    "sam2_ms": 1346.9850420005969,
+    "iou_classical_vs_sam2": 0.8371839550258738,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      360
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0005_jpg.rf.a06ae540869226390a3127a0bed01118.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0005_jpg.rf.a06ae540869226390a3127a0bed01118",
+    "classical_ms": 6.786082998587517,
+    "sam2_ms": 1358.0047499999637,
+    "iou_classical_vs_sam2": 0.9038820544731966,
+    "box_xyxy": [
+      0,
+      0,
+      206,
+      267
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0006 2_jpg.rf.ebb7bc29f5046513f04ba52fa0ca3b50.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0006_2_jpg.rf.ebb7bc29f5046513f04ba52fa0ca3b50",
+    "classical_ms": 4.7990419989218935,
+    "sam2_ms": 1317.8889579976385,
+    "iou_classical_vs_sam2": 0.8080340750531829,
+    "box_xyxy": [
+      217,
+      117,
+      305,
+      319
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0006 4_jpg.rf.c99fb087ed0232d9d84e6e641c6571a2.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0006_4_jpg.rf.c99fb087ed0232d9d84e6e641c6571a2",
+    "classical_ms": 9.410250000655651,
+    "sam2_ms": 1292.4596670018218,
+    "iou_classical_vs_sam2": 0.8349814224276523,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      356
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0007 2_jpg.rf.87acb3f6580791fa8e2bdde694f62bf6.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0007_2_jpg.rf.87acb3f6580791fa8e2bdde694f62bf6",
+    "classical_ms": 4.797499997948762,
+    "sam2_ms": 1302.0215420001477,
+    "iou_classical_vs_sam2": 0.8187948662170387,
+    "box_xyxy": [
+      248,
+      115,
+      337,
+      318
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0007 3_jpg.rf.e838060bfb5fba115ee350d6637ae440.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0007_3_jpg.rf.e838060bfb5fba115ee350d6637ae440",
+    "classical_ms": 11.042124999221414,
+    "sam2_ms": 1332.0969159976812,
+    "iou_classical_vs_sam2": 0.8025962143306341,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      272
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0007 4_jpg.rf.311f81c92ebb559c27a202eb9f31f573.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0007_4_jpg.rf.311f81c92ebb559c27a202eb9f31f573",
+    "classical_ms": 7.0585409994237125,
+    "sam2_ms": 1312.8731670003617,
+    "iou_classical_vs_sam2": 0.5515417500852351,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      326
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0007 5_jpg.rf.b6cc103cc795e75cf124dc75dbdcccc0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0007_5_jpg.rf.b6cc103cc795e75cf124dc75dbdcccc0",
+    "classical_ms": 7.111709001037525,
+    "sam2_ms": 1324.449709001783,
+    "iou_classical_vs_sam2": 0.7133674880563127,
+    "box_xyxy": [
+      0,
+      0,
+      310,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0007_jpg.rf.7b565936f19c31ddf7caba52158428da.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0007_jpg.rf.7b565936f19c31ddf7caba52158428da",
+    "classical_ms": 6.045375001122011,
+    "sam2_ms": 1306.3097499980358,
+    "iou_classical_vs_sam2": 0.8357403042639453,
+    "box_xyxy": [
+      243,
+      44,
+      415,
+      245
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0008 3_jpg.rf.643caf685d68b93974897fa520e0571b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0008_3_jpg.rf.643caf685d68b93974897fa520e0571b",
+    "classical_ms": 7.4088750006922055,
+    "sam2_ms": 1361.9119159993716,
+    "iou_classical_vs_sam2": 0.7659478707490996,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      321
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0008 4_jpg.rf.bc06dce81208d04dc19ca562a47a95f9.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0008_4_jpg.rf.bc06dce81208d04dc19ca562a47a95f9",
+    "classical_ms": 6.7427919966576155,
+    "sam2_ms": 1308.966208001948,
+    "iou_classical_vs_sam2": 0.5120393426294757,
+    "box_xyxy": [
+      0,
+      0,
+      370,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0008_jpg.rf.b05541612b25802b185bb5f93c069cf3.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0008_jpg.rf.b05541612b25802b185bb5f93c069cf3",
+    "classical_ms": 7.559666999441106,
+    "sam2_ms": 1300.2479999995558,
+    "iou_classical_vs_sam2": 0.8140505103180804,
+    "box_xyxy": [
+      238,
+      37,
+      415,
+      235
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0009 2_jpg.rf.aefa2b51cce69d17fe9a2e5966b0942b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0009_2_jpg.rf.aefa2b51cce69d17fe9a2e5966b0942b",
+    "classical_ms": 6.793542001105379,
+    "sam2_ms": 1343.6084170025424,
+    "iou_classical_vs_sam2": 0.884810432262725,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      254
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0009 3_jpg.rf.dc886f23b5de9587214fe1b74c360166.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0009_3_jpg.rf.dc886f23b5de9587214fe1b74c360166",
+    "classical_ms": 7.939666000311263,
+    "sam2_ms": 1303.64629199903,
+    "iou_classical_vs_sam2": 0.6448266581851021,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0010 2_jpg.rf.46cafff576a72e49d3707a91ce14158b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0010_2_jpg.rf.46cafff576a72e49d3707a91ce14158b",
+    "classical_ms": 6.1516249988926575,
+    "sam2_ms": 1309.1355830001703,
+    "iou_classical_vs_sam2": 0.8754577020201882,
+    "box_xyxy": [
+      0,
+      7,
+      415,
+      258
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0010 3_jpg.rf.2043b8c0c5432f1033aea9957717a17e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0010_3_jpg.rf.2043b8c0c5432f1033aea9957717a17e",
+    "classical_ms": 14.175874999637017,
+    "sam2_ms": 1307.683041999553,
+    "iou_classical_vs_sam2": 0.5680736975562029,
+    "box_xyxy": [
+      0,
+      0,
+      347,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0010_jpg.rf.ec40fde2885f1d28c262be1b290c6dd3.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0010_jpg.rf.ec40fde2885f1d28c262be1b290c6dd3",
+    "classical_ms": 5.2936249994672835,
+    "sam2_ms": 1322.5413339969236,
+    "iou_classical_vs_sam2": 0.7826856131940655,
+    "box_xyxy": [
+      235,
+      0,
+      415,
+      229
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0011 2_jpg.rf.cfa514c68a6e2f390672a57395c3a7f7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0011_2_jpg.rf.cfa514c68a6e2f390672a57395c3a7f7",
+    "classical_ms": 6.775041998480447,
+    "sam2_ms": 1297.6877500004775,
+    "iou_classical_vs_sam2": 0.5962774573630553,
+    "box_xyxy": [
+      0,
+      15,
+      349,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0011 3_jpg.rf.d60be72479c3d4bd853415082a783f3c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0011_3_jpg.rf.d60be72479c3d4bd853415082a783f3c",
+    "classical_ms": 8.857707998686237,
+    "sam2_ms": 1306.7090420008753,
+    "iou_classical_vs_sam2": 0.71321227301189,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0012 3_jpg.rf.111105775c3f68907aae21767c35d634.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0012_3_jpg.rf.111105775c3f68907aae21767c35d634",
+    "classical_ms": 7.128415996703552,
+    "sam2_ms": 1307.0112090026669,
+    "iou_classical_vs_sam2": 0.6501756521257966,
+    "box_xyxy": [
+      0,
+      10,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0012_jpg.rf.7308d505fcd3c240fffd18822cd7e434.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0012_jpg.rf.7308d505fcd3c240fffd18822cd7e434",
+    "classical_ms": 6.439499997213716,
+    "sam2_ms": 1305.1377080009843,
+    "iou_classical_vs_sam2": 0.6188878235857854,
+    "box_xyxy": [
+      88,
+      290,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0013 2_jpg.rf.f0a4b85b15ea5828ad8e26d2ee446d31.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0013_2_jpg.rf.f0a4b85b15ea5828ad8e26d2ee446d31",
+    "classical_ms": 10.474416998476954,
+    "sam2_ms": 1315.7276249985443,
+    "iou_classical_vs_sam2": 0.6585805283740572,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0013_jpg.rf.64785f107e53f89f1fe84ab32a0e1dd1.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0013_jpg.rf.64785f107e53f89f1fe84ab32a0e1dd1",
+    "classical_ms": 5.508874997758539,
+    "sam2_ms": 1314.9197500024457,
+    "iou_classical_vs_sam2": 0.5811798326188781,
+    "box_xyxy": [
+      89,
+      292,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0014 2_jpg.rf.eb183d2026608b14fecf0e099cd872af.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0014_2_jpg.rf.eb183d2026608b14fecf0e099cd872af",
+    "classical_ms": 8.414625001023524,
+    "sam2_ms": 1308.2178750009916,
+    "iou_classical_vs_sam2": 0.5369776470304507,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0015 3_jpg.rf.7c6c7dbee02f1f435d83fac940eb2ae7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0015_3_jpg.rf.7c6c7dbee02f1f435d83fac940eb2ae7",
+    "classical_ms": 11.770709003030788,
+    "sam2_ms": 1314.151208000112,
+    "iou_classical_vs_sam2": 0.8268462715222864,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0015_jpg.rf.2f42751efe387568c1f414ecd5b95caa.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0015_jpg.rf.2f42751efe387568c1f414ecd5b95caa",
+    "classical_ms": 5.103916999360081,
+    "sam2_ms": 1319.499041997915,
+    "iou_classical_vs_sam2": 0.7901145392631932,
+    "box_xyxy": [
+      225,
+      20,
+      415,
+      269
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0016 3_jpg.rf.bc87ca013fe52e895cf2b20074742837.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0016_3_jpg.rf.bc87ca013fe52e895cf2b20074742837",
+    "classical_ms": 9.563916999468347,
+    "sam2_ms": 1491.8106670011184,
+    "iou_classical_vs_sam2": 0.7430977274150012,
+    "box_xyxy": [
+      69,
+      18,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0016_jpg.rf.f3040fdd34001f3abf681e286bf714de.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0016_jpg.rf.f3040fdd34001f3abf681e286bf714de",
+    "classical_ms": 6.568125001649605,
+    "sam2_ms": 1338.114999998652,
+    "iou_classical_vs_sam2": 0.5562967882153902,
+    "box_xyxy": [
+      10,
+      115,
+      415,
+      284
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0017 2_jpg.rf.8b47c9b952e09bf0ac96b1a173ccf10d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0017_2_jpg.rf.8b47c9b952e09bf0ac96b1a173ccf10d",
+    "classical_ms": 10.365875001298264,
+    "sam2_ms": 1355.7065409986535,
+    "iou_classical_vs_sam2": 0.6655908639523281,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0017 3_jpg.rf.52515a333e393ad3f072dfc069ae5832.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0017_3_jpg.rf.52515a333e393ad3f072dfc069ae5832",
+    "classical_ms": 7.62708300317172,
+    "sam2_ms": 1310.0721249975322,
+    "iou_classical_vs_sam2": 0.635862725235586,
+    "box_xyxy": [
+      51,
+      24,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0017_jpg.rf.0652b4c0672a0fd300750dbb8ee37430.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0017_jpg.rf.0652b4c0672a0fd300750dbb8ee37430",
+    "classical_ms": 7.881583998823771,
+    "sam2_ms": 1304.6827079997456,
+    "iou_classical_vs_sam2": 0.8369574649011534,
+    "box_xyxy": [
+      90,
+      96,
+      382,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0018 2_jpg.rf.0b1cf94034fc2ffe76178bbf6bf6c68e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0018_2_jpg.rf.0b1cf94034fc2ffe76178bbf6bf6c68e",
+    "classical_ms": 11.272707997704856,
+    "sam2_ms": 1322.3768749994633,
+    "iou_classical_vs_sam2": 0.6155065287327272,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0018 3_jpg.rf.ec26f27045c089c0051b523602e1106c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0018_3_jpg.rf.ec26f27045c089c0051b523602e1106c",
+    "classical_ms": 11.289291000139201,
+    "sam2_ms": 1312.9293749989301,
+    "iou_classical_vs_sam2": 0.7641488672347767,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0019 2_jpg.rf.bf2c9f47bd1f649bb91e96b97035d287.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0019_2_jpg.rf.bf2c9f47bd1f649bb91e96b97035d287",
+    "classical_ms": 10.65579100031755,
+    "sam2_ms": 1316.9903340021847,
+    "iou_classical_vs_sam2": 0.7569530709198938,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0019 3_jpg.rf.1fd58b89ba23949a2f37864007a63e97.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0019_3_jpg.rf.1fd58b89ba23949a2f37864007a63e97",
+    "classical_ms": 6.240832997718826,
+    "sam2_ms": 1337.2522919999028,
+    "iou_classical_vs_sam2": 0.8925338911460459,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      230
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0019_jpg.rf.f8f764e902c0850d43035f4bb9026fdd.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0019_jpg.rf.f8f764e902c0850d43035f4bb9026fdd",
+    "classical_ms": 8.729250002943445,
+    "sam2_ms": 1336.339041001338,
+    "iou_classical_vs_sam2": 0.7723004694835576,
+    "box_xyxy": [
+      0,
+      110,
+      335,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0020 2_jpg.rf.3b6c7b29003e46ba2aecf1f6303928b9.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0020_2_jpg.rf.3b6c7b29003e46ba2aecf1f6303928b9",
+    "classical_ms": 10.375541001849342,
+    "sam2_ms": 1324.1102499996487,
+    "iou_classical_vs_sam2": 0.6883363263802488,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0020 3_jpg.rf.54c753a7c0bfd47b8ced1d1ee06e077e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0020_3_jpg.rf.54c753a7c0bfd47b8ced1d1ee06e077e",
+    "classical_ms": 9.60050000139745,
+    "sam2_ms": 1423.293833999196,
+    "iou_classical_vs_sam2": 0.9167469365359883,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      230
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0021 2_jpg.rf.7ec84be0e281428043df2e588b646445.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0021_2_jpg.rf.7ec84be0e281428043df2e588b646445",
+    "classical_ms": 9.226959002262447,
+    "sam2_ms": 1363.566207997792,
+    "iou_classical_vs_sam2": 0.7331749343223541,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0021 3_jpg.rf.cadf3acd8c8c5a0ec51ac4e0ba75a726.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0021_3_jpg.rf.cadf3acd8c8c5a0ec51ac4e0ba75a726",
+    "classical_ms": 7.967458001076011,
+    "sam2_ms": 1408.538249997946,
+    "iou_classical_vs_sam2": 0.8942038460115097,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      229
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0021_jpg.rf.a88916b14b4780a78b816f63c7bafd6d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0021_jpg.rf.a88916b14b4780a78b816f63c7bafd6d",
+    "classical_ms": 8.717083001101855,
+    "sam2_ms": 1486.0064999993483,
+    "iou_classical_vs_sam2": 0.8086329034495152,
+    "box_xyxy": [
+      49,
+      59,
+      372,
+      381
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0023 2_jpg.rf.444d61451efc5220dfd9c51146491f84.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0023_2_jpg.rf.444d61451efc5220dfd9c51146491f84",
+    "classical_ms": 7.961666000483092,
+    "sam2_ms": 1344.4506669984548,
+    "iou_classical_vs_sam2": 0.7627176324852538,
+    "box_xyxy": [
+      75,
+      60,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0023_jpg.rf.ee11f7137fe68851929f6de26e94ad97.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0023_jpg.rf.ee11f7137fe68851929f6de26e94ad97",
+    "classical_ms": 9.87149999855319,
+    "sam2_ms": 1362.2482089995174,
+    "iou_classical_vs_sam2": 0.8149329381570523,
+    "box_xyxy": [
+      0,
+      0,
+      352,
+      392
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0024 3_jpg.rf.c70789b382757f5a8e650c63aece9c11.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0024_3_jpg.rf.c70789b382757f5a8e650c63aece9c11",
+    "classical_ms": 8.165375002135988,
+    "sam2_ms": 1358.289625000907,
+    "iou_classical_vs_sam2": 0.8851678179962297,
+    "box_xyxy": [
+      122,
+      72,
+      401,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0024_jpg.rf.6510488185f671581b2d5b9b79f8f640.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0024_jpg.rf.6510488185f671581b2d5b9b79f8f640",
+    "classical_ms": 9.460375000344357,
+    "sam2_ms": 1358.8743330001307,
+    "iou_classical_vs_sam2": 0.7420773799967813,
+    "box_xyxy": [
+      0,
+      0,
+      348,
+      400
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0025 2_jpg.rf.3490ff0ada1cf79d52c73edd21e7e631.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0025_2_jpg.rf.3490ff0ada1cf79d52c73edd21e7e631",
+    "classical_ms": 8.661583000503015,
+    "sam2_ms": 1396.3450830015063,
+    "iou_classical_vs_sam2": 0.5782962768370957,
+    "box_xyxy": [
+      0,
+      75,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0026_jpg.rf.d4906807659e735dfa2e6224ad2e63b7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0026_jpg.rf.d4906807659e735dfa2e6224ad2e63b7",
+    "classical_ms": 6.930125000508269,
+    "sam2_ms": 1332.9748750002182,
+    "iou_classical_vs_sam2": 0.8275811053577002,
+    "box_xyxy": [
+      0,
+      0,
+      320,
+      387
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0027 2_jpg.rf.7c03058adf513e4a17e765e93d339b17.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0027_2_jpg.rf.7c03058adf513e4a17e765e93d339b17",
+    "classical_ms": 10.714209001889685,
+    "sam2_ms": 1352.3720830016828,
+    "iou_classical_vs_sam2": 0.4655398413245893,
+    "box_xyxy": [
+      0,
+      73,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0028 2_jpg.rf.939e19ec18924d173a6f9f513f6d678d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0028_2_jpg.rf.939e19ec18924d173a6f9f513f6d678d",
+    "classical_ms": 9.574250001605833,
+    "sam2_ms": 1334.8397919980926,
+    "iou_classical_vs_sam2": 0.6687534687534613,
+    "box_xyxy": [
+      0,
+      37,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0029 2_jpg.rf.4346e9f11f08c8f43df8da75490a8d3d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0029_2_jpg.rf.4346e9f11f08c8f43df8da75490a8d3d",
+    "classical_ms": 10.061000000860076,
+    "sam2_ms": 1339.7480830026325,
+    "iou_classical_vs_sam2": 0.7684668108503527,
+    "box_xyxy": [
+      0,
+      37,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0030_jpg.rf.195ef158e6ac2e84d7f2d612ae251673.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0030_jpg.rf.195ef158e6ac2e84d7f2d612ae251673",
+    "classical_ms": 9.820874998695217,
+    "sam2_ms": 1348.1437500013271,
+    "iou_classical_vs_sam2": 0.8462516426106468,
+    "box_xyxy": [
+      0,
+      0,
+      332,
+      365
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0031_jpg.rf.6f81b489c1ccf2098ee772c239cabb6d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0031_jpg.rf.6f81b489c1ccf2098ee772c239cabb6d",
+    "classical_ms": 10.828792001120746,
+    "sam2_ms": 1370.5069579991687,
+    "iou_classical_vs_sam2": 0.8515644720524067,
+    "box_xyxy": [
+      0,
+      0,
+      298,
+      369
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0032 2_jpg.rf.78fbd91102bac8fbc62c82afccdc9ad5.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0032_2_jpg.rf.78fbd91102bac8fbc62c82afccdc9ad5",
+    "classical_ms": 12.624250000953907,
+    "sam2_ms": 1342.1131249997416,
+    "iou_classical_vs_sam2": 0.8062079808628977,
+    "box_xyxy": [
+      0,
+      18,
+      415,
+      412
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0032_jpg.rf.f4a360270c4f8e13d0717d8f9680e56c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0032_jpg.rf.f4a360270c4f8e13d0717d8f9680e56c",
+    "classical_ms": 6.932125001185341,
+    "sam2_ms": 1375.981832999969,
+    "iou_classical_vs_sam2": 0.870630367387648,
+    "box_xyxy": [
+      0,
+      113,
+      349,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0033_jpg.rf.a920304ed04c85e55da3a18d7b062ed0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0033_jpg.rf.a920304ed04c85e55da3a18d7b062ed0",
+    "classical_ms": 7.716208001511404,
+    "sam2_ms": 1332.6122500002384,
+    "iou_classical_vs_sam2": 0.8746019108280098,
+    "box_xyxy": [
+      0,
+      116,
+      341,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0034 2_jpg.rf.f259cedb976f2375d8529bf91084dfb5.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0034_2_jpg.rf.f259cedb976f2375d8529bf91084dfb5",
+    "classical_ms": 9.598667002137518,
+    "sam2_ms": 1327.018500000122,
+    "iou_classical_vs_sam2": 0.946163222660771,
+    "box_xyxy": [
+      0,
+      31,
+      415,
+      242
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0034_jpg.rf.ac7603e9ede042777df4e3e6689daea4.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0034_jpg.rf.ac7603e9ede042777df4e3e6689daea4",
+    "classical_ms": 7.4079580008401535,
+    "sam2_ms": 1343.020707998221,
+    "iou_classical_vs_sam2": 0.8783486144547308,
+    "box_xyxy": [
+      68,
+      66,
+      373,
+      392
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0035 2_jpg.rf.978e0d66d5755ab3e9a53d8f74401597.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0035_2_jpg.rf.978e0d66d5755ab3e9a53d8f74401597",
+    "classical_ms": 10.465499999554595,
+    "sam2_ms": 1319.3837920007354,
+    "iou_classical_vs_sam2": 0.6276112430551054,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0036_jpg.rf.465e7097ca7633bc07b84b988d39546f.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0036_jpg.rf.465e7097ca7633bc07b84b988d39546f",
+    "classical_ms": 10.910791999776848,
+    "sam2_ms": 1320.9298750007292,
+    "iou_classical_vs_sam2": 0.8571764498397921,
+    "box_xyxy": [
+      0,
+      86,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0037_jpg.rf.3002f3e0353fc10886c1141a89fee7c5.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0037_jpg.rf.3002f3e0353fc10886c1141a89fee7c5",
+    "classical_ms": 6.61216599837644,
+    "sam2_ms": 1325.9268750007323,
+    "iou_classical_vs_sam2": 0.8662235568001474,
+    "box_xyxy": [
+      67,
+      98,
+      415,
+      395
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0038_jpg.rf.400840ae815add24cd2e1a3e8d6a8640.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0038_jpg.rf.400840ae815add24cd2e1a3e8d6a8640",
+    "classical_ms": 7.207499998912681,
+    "sam2_ms": 1330.3648329965654,
+    "iou_classical_vs_sam2": 0.9534838678438118,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      178
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0039 2_jpg.rf.5d037af51e3f0c21086c3aac2c4598f2.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0039_2_jpg.rf.5d037af51e3f0c21086c3aac2c4598f2",
+    "classical_ms": 8.563834002416115,
+    "sam2_ms": 1352.0504160005657,
+    "iou_classical_vs_sam2": 0.6870752887614757,
+    "box_xyxy": [
+      0,
+      107,
+      324,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0039_jpg.rf.820f7a47aab6f2d2c80dcde3c9b39e8b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0039_jpg.rf.820f7a47aab6f2d2c80dcde3c9b39e8b",
+    "classical_ms": 11.044625000067754,
+    "sam2_ms": 1353.4332079980231,
+    "iou_classical_vs_sam2": 0.8561555222660893,
+    "box_xyxy": [
+      30,
+      109,
+      415,
+      402
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0040_jpg.rf.9d6ddb38434d8601f872e25ec1bcaed0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0040_jpg.rf.9d6ddb38434d8601f872e25ec1bcaed0",
+    "classical_ms": 6.873624999570893,
+    "sam2_ms": 1347.986500000843,
+    "iou_classical_vs_sam2": 0.861404345161056,
+    "box_xyxy": [
+      23,
+      108,
+      415,
+      402
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0041 2_jpg.rf.7be9e08190ed8632a687c1845b570fcc.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0041_2_jpg.rf.7be9e08190ed8632a687c1845b570fcc",
+    "classical_ms": 8.736332998523721,
+    "sam2_ms": 1370.7394580014807,
+    "iou_classical_vs_sam2": 0.7450323126170086,
+    "box_xyxy": [
+      0,
+      63,
+      353,
+      377
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0041_jpg.rf.d79c203222854dda98fca71d373d6368.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0041_jpg.rf.d79c203222854dda98fca71d373d6368",
+    "classical_ms": 9.237624999514082,
+    "sam2_ms": 1332.5262499965902,
+    "iou_classical_vs_sam2": 0.5288486455999065,
+    "box_xyxy": [
+      4,
+      97,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0042_jpg.rf.450ca8147db42006b9f0a4ffe600c6e2.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0042_jpg.rf.450ca8147db42006b9f0a4ffe600c6e2",
+    "classical_ms": 7.019125001534121,
+    "sam2_ms": 1351.4628340017225,
+    "iou_classical_vs_sam2": 0.7092957366432715,
+    "box_xyxy": [
+      0,
+      110,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0043_jpg.rf.bca9407b423f7d80a59f4a62a847c516.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0043_jpg.rf.bca9407b423f7d80a59f4a62a847c516",
+    "classical_ms": 7.659041999431793,
+    "sam2_ms": 1453.0045419996895,
+    "iou_classical_vs_sam2": 0.8561935002515771,
+    "box_xyxy": [
+      0,
+      115,
+      337,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0044_jpg.rf.a643c3f6285519a91642b5382440f0c0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0044_jpg.rf.a643c3f6285519a91642b5382440f0c0",
+    "classical_ms": 6.820583999797236,
+    "sam2_ms": 1402.7697919991624,
+    "iou_classical_vs_sam2": 0.8282473985735861,
+    "box_xyxy": [
+      0,
+      118,
+      367,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0045 2_jpg.rf.380c6c35ac748422738aaa09913c42bc.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0045_2_jpg.rf.380c6c35ac748422738aaa09913c42bc",
+    "classical_ms": 9.681791998445988,
+    "sam2_ms": 1352.7893329992366,
+    "iou_classical_vs_sam2": 0.735095389507145,
+    "box_xyxy": [
+      26,
+      114,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0046 2_jpg.rf.34f8908b473380929b1e918b23b33d0b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0046_2_jpg.rf.34f8908b473380929b1e918b23b33d0b",
+    "classical_ms": 6.7764579980575945,
+    "sam2_ms": 1351.2222500030475,
+    "iou_classical_vs_sam2": 0.6445659062103801,
+    "box_xyxy": [
+      39,
+      82,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0046_jpg.rf.ac3a1e79a68cab7a4e0545e182d67753.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0046_jpg.rf.ac3a1e79a68cab7a4e0545e182d67753",
+    "classical_ms": 7.61070800217567,
+    "sam2_ms": 1321.3465419976274,
+    "iou_classical_vs_sam2": 0.8557052930224184,
+    "box_xyxy": [
+      0,
+      67,
+      384,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0047_jpg.rf.955a685ea9d601c0aba9905b3cc86cba.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0047_jpg.rf.955a685ea9d601c0aba9905b3cc86cba",
+    "classical_ms": 10.08275000276626,
+    "sam2_ms": 1359.20491700017,
+    "iou_classical_vs_sam2": 0.7690868447744362,
+    "box_xyxy": [
+      0,
+      83,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0049 2_jpg.rf.8ec0d0976887ccb31073dc9c7a487bd2.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0049_2_jpg.rf.8ec0d0976887ccb31073dc9c7a487bd2",
+    "classical_ms": 8.735040999454213,
+    "sam2_ms": 1313.8639159988088,
+    "iou_classical_vs_sam2": 0.7674066364979439,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0049_jpg.rf.2ac366f69cbf43322bb89f75eed19a22.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0049_jpg.rf.2ac366f69cbf43322bb89f75eed19a22",
+    "classical_ms": 10.327083000447601,
+    "sam2_ms": 1375.756375000492,
+    "iou_classical_vs_sam2": 0.4825273179703507,
+    "box_xyxy": [
+      0,
+      31,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0051 2_jpg.rf.bd2e891377e6097cd8c99247009092d0.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0051_2_jpg.rf.bd2e891377e6097cd8c99247009092d0",
+    "classical_ms": 9.143709001364186,
+    "sam2_ms": 1341.0517499978596,
+    "iou_classical_vs_sam2": 0.5703429683205757,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0051_jpg.rf.b45f6ec5f7fa576d8653edd1dad889fd.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0051_jpg.rf.b45f6ec5f7fa576d8653edd1dad889fd",
+    "classical_ms": 9.233332999428967,
+    "sam2_ms": 1349.7177500030375,
+    "iou_classical_vs_sam2": 0.3429559570863878,
+    "box_xyxy": [
+      0,
+      26,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0052_jpg.rf.e3601e18359fb571b073c4fcfbadbef9.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0052_jpg.rf.e3601e18359fb571b073c4fcfbadbef9",
+    "classical_ms": 12.357249997876352,
+    "sam2_ms": 1348.476249997475,
+    "iou_classical_vs_sam2": 0.7063375720178577,
+    "box_xyxy": [
+      0,
+      28,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0053 2_jpg.rf.423aedd36faa4d80660bd041f280fdac.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0053_2_jpg.rf.423aedd36faa4d80660bd041f280fdac",
+    "classical_ms": 6.822792001912603,
+    "sam2_ms": 1369.895916999667,
+    "iou_classical_vs_sam2": 0.7022041095677223,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      375
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0054 2_jpg.rf.7e7bbe273b8c9664558983a8e6a8b326.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0054_2_jpg.rf.7e7bbe273b8c9664558983a8e6a8b326",
+    "classical_ms": 9.999334000895033,
+    "sam2_ms": 1393.7580839992734,
+    "iou_classical_vs_sam2": 0.9399012431238257,
+    "box_xyxy": [
+      0,
+      84,
+      415,
+      358
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0054_jpg.rf.03e0fd11bad6afeb085f2f156d7fd043.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0054_jpg.rf.03e0fd11bad6afeb085f2f156d7fd043",
+    "classical_ms": 9.945041001628852,
+    "sam2_ms": 1336.3409590019728,
+    "iou_classical_vs_sam2": 0.8145492993748888,
+    "box_xyxy": [
+      0,
+      47,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0055 2_jpg.rf.d19ab8d1fc0e2a72abe9e8208e19c069.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0055_2_jpg.rf.d19ab8d1fc0e2a72abe9e8208e19c069",
+    "classical_ms": 9.845415999734541,
+    "sam2_ms": 1332.8200839969213,
+    "iou_classical_vs_sam2": 0.9337458922904821,
+    "box_xyxy": [
+      0,
+      81,
+      415,
+      333
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0056_jpg.rf.0255dca8946ea0a34592394acd67b11b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0056_jpg.rf.0255dca8946ea0a34592394acd67b11b",
+    "classical_ms": 10.147875000257045,
+    "sam2_ms": 1318.6576250009239,
+    "iou_classical_vs_sam2": 0.7674309200752604,
+    "box_xyxy": [
+      0,
+      64,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0057_jpg.rf.4c70b90c7846ee9ce3b879c93336dd6c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0057_jpg.rf.4c70b90c7846ee9ce3b879c93336dd6c",
+    "classical_ms": 11.133333999168826,
+    "sam2_ms": 1319.8098329994536,
+    "iou_classical_vs_sam2": 0.4612307610797576,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0058_jpg.rf.ac642469d752473c06088c26c50a0746.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0058_jpg.rf.ac642469d752473c06088c26c50a0746",
+    "classical_ms": 8.77875000151107,
+    "sam2_ms": 1323.7785829987843,
+    "iou_classical_vs_sam2": 0.758129540181783,
+    "box_xyxy": [
+      120,
+      15,
+      397,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0061_jpg.rf.43a863f68c59d7d782c00398e3361e59.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0061_jpg.rf.43a863f68c59d7d782c00398e3361e59",
+    "classical_ms": 10.854416999791283,
+    "sam2_ms": 1380.14320900038,
+    "iou_classical_vs_sam2": 0.8132191228293549,
+    "box_xyxy": [
+      0,
+      12,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0062_jpg.rf.9799f6ec68f15fbfcca91d69379f071a.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0062_jpg.rf.9799f6ec68f15fbfcca91d69379f071a",
+    "classical_ms": 7.9973749998316634,
+    "sam2_ms": 1366.1581670021405,
+    "iou_classical_vs_sam2": 0.6977165114898322,
+    "box_xyxy": [
+      0,
+      34,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0063_jpg.rf.f3575c4974ec9793a9db9173ebfec8e7.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0063_jpg.rf.f3575c4974ec9793a9db9173ebfec8e7",
+    "classical_ms": 7.642290998774115,
+    "sam2_ms": 1360.4140840034233,
+    "iou_classical_vs_sam2": 0.5566422057950607,
+    "box_xyxy": [
+      88,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0064_jpg.rf.07406ea9809d2492712b3e2fa3a857b3.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0064_jpg.rf.07406ea9809d2492712b3e2fa3a857b3",
+    "classical_ms": 8.074499997746898,
+    "sam2_ms": 1351.3419160008198,
+    "iou_classical_vs_sam2": 0.5372533748701895,
+    "box_xyxy": [
+      86,
+      10,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0065_jpg.rf.7dab4e4097469f19d739a34f48f81e18.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0065_jpg.rf.7dab4e4097469f19d739a34f48f81e18",
+    "classical_ms": 8.775249996688217,
+    "sam2_ms": 1343.376332999469,
+    "iou_classical_vs_sam2": 0.562402999629159,
+    "box_xyxy": [
+      77,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0067_jpg.rf.7ccff52ab0ce02efae00b594648a07c1.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0067_jpg.rf.7ccff52ab0ce02efae00b594648a07c1",
+    "classical_ms": 10.149583002203144,
+    "sam2_ms": 1345.6523750028282,
+    "iou_classical_vs_sam2": 0.556552810759094,
+    "box_xyxy": [
+      87,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0068_jpg.rf.a00748daf28aaf8592711b81bb142b6d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0068_jpg.rf.a00748daf28aaf8592711b81bb142b6d",
+    "classical_ms": 7.113832998584257,
+    "sam2_ms": 1337.9688749992056,
+    "iou_classical_vs_sam2": 0.5551085482693285,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0069_jpg.rf.e4dfffdddb9292ce6b88bc1b1d5d3786.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0069_jpg.rf.e4dfffdddb9292ce6b88bc1b1d5d3786",
+    "classical_ms": 5.693458002497209,
+    "sam2_ms": 1348.717624998244,
+    "iou_classical_vs_sam2": 0.6629514521487337,
+    "box_xyxy": [
+      0,
+      0,
+      197,
+      375
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0070_jpg.rf.b9cbb42e02fd900b3288e237e47e689c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0070_jpg.rf.b9cbb42e02fd900b3288e237e47e689c",
+    "classical_ms": 5.99408299967763,
+    "sam2_ms": 1364.3022079995717,
+    "iou_classical_vs_sam2": 0.6870585063359211,
+    "box_xyxy": [
+      0,
+      0,
+      193,
+      377
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0071_jpg.rf.40aad1adad09234707d8490f35e742d4.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0071_jpg.rf.40aad1adad09234707d8490f35e742d4",
+    "classical_ms": 7.083749998855637,
+    "sam2_ms": 1345.8470000005036,
+    "iou_classical_vs_sam2": 0.7247144767980059,
+    "box_xyxy": [
+      0,
+      0,
+      142,
+      371
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0072_jpg.rf.84eb7e694e6d935f927dbce9dd2d650d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0072_jpg.rf.84eb7e694e6d935f927dbce9dd2d650d",
+    "classical_ms": 7.796833000611514,
+    "sam2_ms": 1343.1867079998483,
+    "iou_classical_vs_sam2": 0.777922471229546,
+    "box_xyxy": [
+      0,
+      0,
+      210,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0073_jpg.rf.de782132048a329609d1ae3652a1ecfe.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0073_jpg.rf.de782132048a329609d1ae3652a1ecfe",
+    "classical_ms": 8.159875000274042,
+    "sam2_ms": 1369.2172919982113,
+    "iou_classical_vs_sam2": 0.9137395527445092,
+    "box_xyxy": [
+      0,
+      0,
+      211,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0074_jpg.rf.64efe06bcd723dc66b0d071bfb47948a.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0074_jpg.rf.64efe06bcd723dc66b0d071bfb47948a",
+    "classical_ms": 11.290499998722225,
+    "sam2_ms": 1338.9979589992436,
+    "iou_classical_vs_sam2": 0.8632010208878922,
+    "box_xyxy": [
+      0,
+      0,
+      214,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0076_jpg.rf.3baf6163565084ff64a4637be8264138.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0076_jpg.rf.3baf6163565084ff64a4637be8264138",
+    "classical_ms": 9.560375001456123,
+    "sam2_ms": 1330.4726660026063,
+    "iou_classical_vs_sam2": 0.8449878996306083,
+    "box_xyxy": [
+      0,
+      0,
+      223,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0077_jpg.rf.dad2eb6eb2b46976ef79fd03fc590879.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0077_jpg.rf.dad2eb6eb2b46976ef79fd03fc590879",
+    "classical_ms": 12.343916998361237,
+    "sam2_ms": 1329.4258329988224,
+    "iou_classical_vs_sam2": 0.8279722261584136,
+    "box_xyxy": [
+      0,
+      0,
+      326,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0078_jpg.rf.c24c906e3e74df7b836fc61f250fb029.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0078_jpg.rf.c24c906e3e74df7b836fc61f250fb029",
+    "classical_ms": 7.9851670016068965,
+    "sam2_ms": 1333.0797080016055,
+    "iou_classical_vs_sam2": 0.8434035083190163,
+    "box_xyxy": [
+      0,
+      0,
+      241,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0079_jpg.rf.78039ec54a41006e4842cf69e88a7453.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0079_jpg.rf.78039ec54a41006e4842cf69e88a7453",
+    "classical_ms": 12.861125000199536,
+    "sam2_ms": 1371.1280829993484,
+    "iou_classical_vs_sam2": 0.8055010762975268,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0080_jpg.rf.e604b7f720f52b80eb22e503b3125abb.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0080_jpg.rf.e604b7f720f52b80eb22e503b3125abb",
+    "classical_ms": 6.961416998819914,
+    "sam2_ms": 1366.778458999761,
+    "iou_classical_vs_sam2": 0.7237241352308846,
+    "box_xyxy": [
+      61,
+      128,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0081_jpg.rf.4abe8a65fb08be236971cdd879c48c49.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0081_jpg.rf.4abe8a65fb08be236971cdd879c48c49",
+    "classical_ms": 9.823291999055073,
+    "sam2_ms": 1347.8023749994463,
+    "iou_classical_vs_sam2": 0.9265294099407627,
+    "box_xyxy": [
+      0,
+      0,
+      233,
+      395
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0082_jpg.rf.60c9437020330ae6a9642764836659ab.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0082_jpg.rf.60c9437020330ae6a9642764836659ab",
+    "classical_ms": 9.309459001087816,
+    "sam2_ms": 1337.3104999991483,
+    "iou_classical_vs_sam2": 0.8881145768250962,
+    "box_xyxy": [
+      0,
+      88,
+      409,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0083_jpg.rf.c61be51dc0432b815b0a280200dc1d73.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0083_jpg.rf.c61be51dc0432b815b0a280200dc1d73",
+    "classical_ms": 8.699292000528658,
+    "sam2_ms": 1308.390917001816,
+    "iou_classical_vs_sam2": 0.8407428174730209,
+    "box_xyxy": [
+      0,
+      97,
+      355,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0084_jpg.rf.aa2f5d000b9509b400e88de036cd62c8.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0084_jpg.rf.aa2f5d000b9509b400e88de036cd62c8",
+    "classical_ms": 8.387958001549123,
+    "sam2_ms": 1359.5820420014206,
+    "iou_classical_vs_sam2": 0.8259122912613089,
+    "box_xyxy": [
+      0,
+      46,
+      355,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0085_jpg.rf.67559ef66be91895abe3fb3df2e0b146.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0085_jpg.rf.67559ef66be91895abe3fb3df2e0b146",
+    "classical_ms": 7.041584001854062,
+    "sam2_ms": 1351.3036660006037,
+    "iou_classical_vs_sam2": 0.7941093719921103,
+    "box_xyxy": [
+      0,
+      92,
+      373,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0087_jpg.rf.99e05b63c6208f51dcafc9ebb64ce858.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0087_jpg.rf.99e05b63c6208f51dcafc9ebb64ce858",
+    "classical_ms": 7.257291999849258,
+    "sam2_ms": 1375.7090420003806,
+    "iou_classical_vs_sam2": 0.862862440997959,
+    "box_xyxy": [
+      15,
+      125,
+      328,
+      404
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0089_jpg.rf.61e4cf86ae240fc0dfffcc0ee8c20950.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0089_jpg.rf.61e4cf86ae240fc0dfffcc0ee8c20950",
+    "classical_ms": 6.982208000408718,
+    "sam2_ms": 1353.8620409999567,
+    "iou_classical_vs_sam2": 0.8957808786502367,
+    "box_xyxy": [
+      52,
+      105,
+      327,
+      373
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0090_jpg.rf.939af94c1639212b6afe925cd7e856a8.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0090_jpg.rf.939af94c1639212b6afe925cd7e856a8",
+    "classical_ms": 6.806249999499414,
+    "sam2_ms": 1353.7907089994405,
+    "iou_classical_vs_sam2": 0.8762719495722451,
+    "box_xyxy": [
+      50,
+      101,
+      336,
+      370
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0091_jpg.rf.fff4833e9c0eadc1d98c8d2211eb7453.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0091_jpg.rf.fff4833e9c0eadc1d98c8d2211eb7453",
+    "classical_ms": 6.632500000705477,
+    "sam2_ms": 1332.3918750029407,
+    "iou_classical_vs_sam2": 0.8905593487394764,
+    "box_xyxy": [
+      38,
+      91,
+      343,
+      363
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0094_jpg.rf.03dbd175cdbd5379608debcc783a5361.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0094_jpg.rf.03dbd175cdbd5379608debcc783a5361",
+    "classical_ms": 10.390207997261314,
+    "sam2_ms": 1339.154083001631,
+    "iou_classical_vs_sam2": 0.7845378314187311,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      330
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0095_jpg.rf.f3cf643e95ab885a45db202209fbb86f.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0095_jpg.rf.f3cf643e95ab885a45db202209fbb86f",
+    "classical_ms": 9.50245899730362,
+    "sam2_ms": 1339.478957997926,
+    "iou_classical_vs_sam2": 0.3702943640625406,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      332
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0096_jpg.rf.1ee95cc1c64f891e5037413225314247.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0096_jpg.rf.1ee95cc1c64f891e5037413225314247",
+    "classical_ms": 10.430624999571592,
+    "sam2_ms": 1344.735208000202,
+    "iou_classical_vs_sam2": 0.7629709827053492,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      333
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0097_jpg.rf.bf659b88d95add4b2cc4d25ebc5a3eff.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0097_jpg.rf.bf659b88d95add4b2cc4d25ebc5a3eff",
+    "classical_ms": 7.023874997685198,
+    "sam2_ms": 1366.3224170013564,
+    "iou_classical_vs_sam2": 0.8402631455728605,
+    "box_xyxy": [
+      60,
+      148,
+      337,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0098_jpg.rf.5e8e3572da1c1aae4565bc705900131b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0098_jpg.rf.5e8e3572da1c1aae4565bc705900131b",
+    "classical_ms": 6.475334001152078,
+    "sam2_ms": 1328.9816670003347,
+    "iou_classical_vs_sam2": 0.8362201693610269,
+    "box_xyxy": [
+      97,
+      121,
+      373,
+      387
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0101_jpg.rf.34c0c756031f3cf84c3d52d06431f79e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0101_jpg.rf.34c0c756031f3cf84c3d52d06431f79e",
+    "classical_ms": 8.811584000795847,
+    "sam2_ms": 1348.5315420002735,
+    "iou_classical_vs_sam2": 0.6372040276298045,
+    "box_xyxy": [
+      0,
+      0,
+      317,
+      303
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0102_jpg.rf.e6636eafffcf69e2afb75c88b29046c9.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0102_jpg.rf.e6636eafffcf69e2afb75c88b29046c9",
+    "classical_ms": 9.730165998917073,
+    "sam2_ms": 1340.4525000005378,
+    "iou_classical_vs_sam2": 0.6931609891059943,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0103_jpg.rf.7cbd44559f6a649510b5eb6f5509edb6.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0103_jpg.rf.7cbd44559f6a649510b5eb6f5509edb6",
+    "classical_ms": 11.964290999458171,
+    "sam2_ms": 1374.6557919985207,
+    "iou_classical_vs_sam2": 0.5725002561011121,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0104_jpg.rf.b5469c530e0c52eaa12c031fe354aaec.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0104_jpg.rf.b5469c530e0c52eaa12c031fe354aaec",
+    "classical_ms": 7.15308299913886,
+    "sam2_ms": 1350.824958000885,
+    "iou_classical_vs_sam2": 0.9117269187436817,
+    "box_xyxy": [
+      0,
+      0,
+      227,
+      300
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0105_jpg.rf.267ff05e80fdfb05b1535e88f2305ed6.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0105_jpg.rf.267ff05e80fdfb05b1535e88f2305ed6",
+    "classical_ms": 7.8412090006168,
+    "sam2_ms": 1356.62987500109,
+    "iou_classical_vs_sam2": 0.9082335274511792,
+    "box_xyxy": [
+      0,
+      0,
+      232,
+      317
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0107_jpg.rf.bec660cf9cd39a73fd8906abfe1400e1.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0107_jpg.rf.bec660cf9cd39a73fd8906abfe1400e1",
+    "classical_ms": 6.789999999455176,
+    "sam2_ms": 1342.3380410022219,
+    "iou_classical_vs_sam2": 0.9124800312978693,
+    "box_xyxy": [
+      0,
+      88,
+      269,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0108_jpg.rf.c5068dbf6f5c4190b32f54fee8848d50.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0108_jpg.rf.c5068dbf6f5c4190b32f54fee8848d50",
+    "classical_ms": 7.582999998703599,
+    "sam2_ms": 1343.5863339982461,
+    "iou_classical_vs_sam2": 0.9428688921852143,
+    "box_xyxy": [
+      11,
+      105,
+      382,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0109_jpg.rf.03607def018d49330ebef9a856f65812.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0109_jpg.rf.03607def018d49330ebef9a856f65812",
+    "classical_ms": 9.423333001905121,
+    "sam2_ms": 1368.1064580014208,
+    "iou_classical_vs_sam2": 0.8499999999999889,
+    "box_xyxy": [
+      14,
+      48,
+      374,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0110_jpg.rf.a824b77eea83813b25cda4f46ee50e32.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0110_jpg.rf.a824b77eea83813b25cda4f46ee50e32",
+    "classical_ms": 5.415834002633346,
+    "sam2_ms": 1364.5282090001274,
+    "iou_classical_vs_sam2": 0.7151591440388162,
+    "box_xyxy": [
+      28,
+      170,
+      363,
+      311
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/train/IMG_0112_jpg.rf.016d04c2af3bc0221a5153d6af8b9f30.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0112_jpg.rf.016d04c2af3bc0221a5153d6af8b9f30",
+    "classical_ms": 5.658583999320399,
+    "sam2_ms": 1369.7652500013646,
+    "iou_classical_vs_sam2": 0.61700923338166,
+    "box_xyxy": [
+      0,
+      219,
+      343,
+      359
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0001 3_jpg.rf.6b8b2c1bb8549fa468fde71f35e3a72a.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0001_3_jpg.rf.6b8b2c1bb8549fa468fde71f35e3a72a",
+    "classical_ms": 9.559207999700448,
+    "sam2_ms": 1360.7463330008613,
+    "iou_classical_vs_sam2": 0.8492064380999221,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0002 5_jpg.rf.d2cd802759e95742d124ad36f932d25f.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0002_5_jpg.rf.d2cd802759e95742d124ad36f932d25f",
+    "classical_ms": 8.411750000959728,
+    "sam2_ms": 1356.4768329997605,
+    "iou_classical_vs_sam2": 0.8358011287031745,
+    "box_xyxy": [
+      0,
+      0,
+      357,
+      285
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0002_jpg.rf.2698533a21de04406056050cd2796682.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0002_jpg.rf.2698533a21de04406056050cd2796682",
+    "classical_ms": 6.672708001133287,
+    "sam2_ms": 1328.1226660001266,
+    "iou_classical_vs_sam2": 0.8704761447633468,
+    "box_xyxy": [
+      0,
+      0,
+      214,
+      274
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0003 2_jpg.rf.f8b5d6be996b24bddcd1ae3ec4fe5217.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0003_2_jpg.rf.f8b5d6be996b24bddcd1ae3ec4fe5217",
+    "classical_ms": 7.292916001460981,
+    "sam2_ms": 1327.658958001848,
+    "iou_classical_vs_sam2": 0.8674091507143623,
+    "box_xyxy": [
+      63,
+      74,
+      368,
+      362
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0006 3_jpg.rf.0612031aedc4f6755177b79f3d0803eb.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0006_3_jpg.rf.0612031aedc4f6755177b79f3d0803eb",
+    "classical_ms": 8.717917000467423,
+    "sam2_ms": 1346.2554590005311,
+    "iou_classical_vs_sam2": 0.9075037086545995,
+    "box_xyxy": [
+      0,
+      47,
+      415,
+      303
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0006_jpg.rf.4f830ffe8875d3ea258b3e4332dc72da.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0006_jpg.rf.4f830ffe8875d3ea258b3e4332dc72da",
+    "classical_ms": 5.862916001206031,
+    "sam2_ms": 1338.9445419998083,
+    "iou_classical_vs_sam2": 0.793460633010683,
+    "box_xyxy": [
+      0,
+      63,
+      132,
+      271
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0008 2_jpg.rf.12590c06dd9458d89e73ee35f8037c3d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0008_2_jpg.rf.12590c06dd9458d89e73ee35f8037c3d",
+    "classical_ms": 10.73204099884606,
+    "sam2_ms": 1335.9105000017735,
+    "iou_classical_vs_sam2": 0.85245517677506,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0011_jpg.rf.2667e3f52aad7a65001f0c9f05e26cde.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0011_jpg.rf.2667e3f52aad7a65001f0c9f05e26cde",
+    "classical_ms": 7.528917001764057,
+    "sam2_ms": 1340.0032499994268,
+    "iou_classical_vs_sam2": 0.7528271405492514,
+    "box_xyxy": [
+      236,
+      8,
+      415,
+      230
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0013 3_jpg.rf.e38fc310e4dbab101a7c592e9211d046.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0013_3_jpg.rf.e38fc310e4dbab101a7c592e9211d046",
+    "classical_ms": 8.617415998742217,
+    "sam2_ms": 1335.2154169988353,
+    "iou_classical_vs_sam2": 0.6306812285981033,
+    "box_xyxy": [
+      0,
+      10,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0014 3_jpg.rf.131eb12843ba9f462d7d00596b9169ca.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0014_3_jpg.rf.131eb12843ba9f462d7d00596b9169ca",
+    "classical_ms": 9.55887500094832,
+    "sam2_ms": 1329.2184170022665,
+    "iou_classical_vs_sam2": 0.7960424740838685,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0014_jpg.rf.655d108ad03b65c53247b21882449968.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0014_jpg.rf.655d108ad03b65c53247b21882449968",
+    "classical_ms": 5.658749996655388,
+    "sam2_ms": 1383.315416998812,
+    "iou_classical_vs_sam2": 0.5466510343784068,
+    "box_xyxy": [
+      89,
+      287,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0015 2_jpg.rf.a8b2ea394db2335882bd01bdef384185.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0015_2_jpg.rf.a8b2ea394db2335882bd01bdef384185",
+    "classical_ms": 12.455749998480314,
+    "sam2_ms": 1329.2214159992,
+    "iou_classical_vs_sam2": 0.6012074329697091,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0016 2_jpg.rf.09f77c6968bc0f944d7bbe2a3e6225ec.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0016_2_jpg.rf.09f77c6968bc0f944d7bbe2a3e6225ec",
+    "classical_ms": 13.107833998219576,
+    "sam2_ms": 1336.0459169998649,
+    "iou_classical_vs_sam2": 0.6914137719992187,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0018_jpg.rf.5977a79d9927a8d871f0bddc6a0daf4f.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0018_jpg.rf.5977a79d9927a8d871f0bddc6a0daf4f",
+    "classical_ms": 11.050291999708861,
+    "sam2_ms": 1412.7557920000982,
+    "iou_classical_vs_sam2": 0.8451090166064199,
+    "box_xyxy": [
+      0,
+      52,
+      374,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0020_jpg.rf.608732787e0510a729badac1880f1a47.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0020_jpg.rf.608732787e0510a729badac1880f1a47",
+    "classical_ms": 11.520624997501727,
+    "sam2_ms": 1334.0360840011272,
+    "iou_classical_vs_sam2": 0.8771929824561322,
+    "box_xyxy": [
+      0,
+      0,
+      339,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0022 2_jpg.rf.9cdd093c379c7f405621ec9604bd4d0d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0022_2_jpg.rf.9cdd093c379c7f405621ec9604bd4d0d",
+    "classical_ms": 10.42583399976138,
+    "sam2_ms": 1377.938916997664,
+    "iou_classical_vs_sam2": 0.6064623973514184,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0022 3_jpg.rf.9d1b0049ba85b26d1449c70d21b81892.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0022_3_jpg.rf.9d1b0049ba85b26d1449c70d21b81892",
+    "classical_ms": 7.388500001979992,
+    "sam2_ms": 1341.3278750012978,
+    "iou_classical_vs_sam2": 0.9204170309380466,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      229
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0025_jpg.rf.5c4e860d8223b16547faae8a97697525.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0025_jpg.rf.5c4e860d8223b16547faae8a97697525",
+    "classical_ms": 9.907749998092186,
+    "sam2_ms": 1361.1120830028085,
+    "iou_classical_vs_sam2": 0.8391569665278561,
+    "box_xyxy": [
+      0,
+      0,
+      345,
+      395
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0026 2_jpg.rf.45ba17520febc7ebcb5e8ac76b059041.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0026_2_jpg.rf.45ba17520febc7ebcb5e8ac76b059041",
+    "classical_ms": 9.120499998971354,
+    "sam2_ms": 1361.3349579973146,
+    "iou_classical_vs_sam2": 0.8019895570759722,
+    "box_xyxy": [
+      0,
+      66,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0028_jpg.rf.5ba5b6b902d9d1caa6b96e3d85f3d1bd.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0028_jpg.rf.5ba5b6b902d9d1caa6b96e3d85f3d1bd",
+    "classical_ms": 11.661167001875583,
+    "sam2_ms": 1334.6182919995044,
+    "iou_classical_vs_sam2": 0.8360955185895836,
+    "box_xyxy": [
+      0,
+      0,
+      325,
+      368
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0029_jpg.rf.f494ffda14f225393278cc38ac8be0ba.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0029_jpg.rf.f494ffda14f225393278cc38ac8be0ba",
+    "classical_ms": 7.8719590019318275,
+    "sam2_ms": 1370.276207999268,
+    "iou_classical_vs_sam2": 0.8099089095679266,
+    "box_xyxy": [
+      0,
+      0,
+      328,
+      362
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0035_jpg.rf.d27e5631e1d6bce0016a81bf5c71eb22.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0035_jpg.rf.d27e5631e1d6bce0016a81bf5c71eb22",
+    "classical_ms": 8.427291999396402,
+    "sam2_ms": 1366.8270839989418,
+    "iou_classical_vs_sam2": 0.8595278295295636,
+    "box_xyxy": [
+      0,
+      69,
+      415,
+      400
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0036 2_jpg.rf.473da1619a52e7685ccad0429c4dd653.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0036_2_jpg.rf.473da1619a52e7685ccad0429c4dd653",
+    "classical_ms": 10.799291998409899,
+    "sam2_ms": 1363.7260000032256,
+    "iou_classical_vs_sam2": 0.8402711544575286,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      409
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0042 2_jpg.rf.4c4ce9c7b13af26f54c13be77602c849.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0042_2_jpg.rf.4c4ce9c7b13af26f54c13be77602c849",
+    "classical_ms": 10.113874999660766,
+    "sam2_ms": 1370.2790419993107,
+    "iou_classical_vs_sam2": 0.852733641301578,
+    "box_xyxy": [
+      0,
+      88,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0044 2_jpg.rf.dc4dc92b3d221928d1da1330c1688a89.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0044_2_jpg.rf.dc4dc92b3d221928d1da1330c1688a89",
+    "classical_ms": 9.77341700126999,
+    "sam2_ms": 1428.8974999981292,
+    "iou_classical_vs_sam2": 0.8701162239393012,
+    "box_xyxy": [
+      28,
+      125,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0047 2_jpg.rf.408999cbf7b0b9b5fb4938c829c72d0e.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0047_2_jpg.rf.408999cbf7b0b9b5fb4938c829c72d0e",
+    "classical_ms": 10.76962500155787,
+    "sam2_ms": 1343.5204999987036,
+    "iou_classical_vs_sam2": 0.7853531959764627,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0048 2_jpg.rf.e1c801a3463f71ab6efca67ca5f8e63b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0048_2_jpg.rf.e1c801a3463f71ab6efca67ca5f8e63b",
+    "classical_ms": 9.362207998492522,
+    "sam2_ms": 1333.1107500016515,
+    "iou_classical_vs_sam2": 0.8591040708567438,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      264
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0048_jpg.rf.de75760a42bf18d5e694162beee0677d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0048_jpg.rf.de75760a42bf18d5e694162beee0677d",
+    "classical_ms": 11.346625000442145,
+    "sam2_ms": 1381.0408749995986,
+    "iou_classical_vs_sam2": 0.7845532590121167,
+    "box_xyxy": [
+      0,
+      31,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0050_jpg.rf.372af5485c16a985725ae3ad3dd7a801.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0050_jpg.rf.372af5485c16a985725ae3ad3dd7a801",
+    "classical_ms": 9.224415996868629,
+    "sam2_ms": 1374.1939579995233,
+    "iou_classical_vs_sam2": 0.44145195486011135,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0052 2_jpg.rf.31d5dacbd08b5278204cd220fb1b8b0c.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0052_2_jpg.rf.31d5dacbd08b5278204cd220fb1b8b0c",
+    "classical_ms": 10.494958998606307,
+    "sam2_ms": 1380.0289169994358,
+    "iou_classical_vs_sam2": 0.8631447535937992,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0053_jpg.rf.16c5bd932a6353a72c90702e1c3e107b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0053_jpg.rf.16c5bd932a6353a72c90702e1c3e107b",
+    "classical_ms": 11.198625001270557,
+    "sam2_ms": 1370.2197089987749,
+    "iou_classical_vs_sam2": 0.7210064462466149,
+    "box_xyxy": [
+      0,
+      26,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0055_jpg.rf.94cb22162f611ae79a71eedf87fe1f02.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0055_jpg.rf.94cb22162f611ae79a71eedf87fe1f02",
+    "classical_ms": 10.94208400172647,
+    "sam2_ms": 1357.3290419990371,
+    "iou_classical_vs_sam2": 0.847054827412525,
+    "box_xyxy": [
+      0,
+      53,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0066_jpg.rf.058020aa5c27e227cf44d4e8378b135d.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0066_jpg.rf.058020aa5c27e227cf44d4e8378b135d",
+    "classical_ms": 8.164832997863414,
+    "sam2_ms": 1360.885333000624,
+    "iou_classical_vs_sam2": 0.5817629521291474,
+    "box_xyxy": [
+      86,
+      0,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0075_jpg.rf.08c27e14cdba0e87255c59f5eeef5d19.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0075_jpg.rf.08c27e14cdba0e87255c59f5eeef5d19",
+    "classical_ms": 7.057957998767961,
+    "sam2_ms": 1369.0721660022973,
+    "iou_classical_vs_sam2": 0.9173396547336718,
+    "box_xyxy": [
+      0,
+      0,
+      214,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0086_jpg.rf.4aa2963e7de057f03a0a68b2a3e83c55.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0086_jpg.rf.4aa2963e7de057f03a0a68b2a3e83c55",
+    "classical_ms": 6.876791998365661,
+    "sam2_ms": 1403.484832997492,
+    "iou_classical_vs_sam2": 0.7674245417793737,
+    "box_xyxy": [
+      0,
+      100,
+      381,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0088_jpg.rf.2c821c0c149e250d20c7d761a5fdd967.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0088_jpg.rf.2c821c0c149e250d20c7d761a5fdd967",
+    "classical_ms": 6.548499997734325,
+    "sam2_ms": 1364.2780839982152,
+    "iou_classical_vs_sam2": 0.8641429179072552,
+    "box_xyxy": [
+      22,
+      109,
+      333,
+      382
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0092_jpg.rf.2142d9a1b054620ba888c3073c6a6ef2.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0092_jpg.rf.2142d9a1b054620ba888c3073c6a6ef2",
+    "classical_ms": 9.755582999787293,
+    "sam2_ms": 1365.4956669997773,
+    "iou_classical_vs_sam2": 0.7754125412541178,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      331
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0099_jpg.rf.9546da350644619ff3164ea81d259120.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0099_jpg.rf.9546da350644619ff3164ea81d259120",
+    "classical_ms": 7.456250001268927,
+    "sam2_ms": 1383.9580829990155,
+    "iou_classical_vs_sam2": 0.5874316939890619,
+    "box_xyxy": [
+      0,
+      0,
+      415,
+      327
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0100_jpg.rf.134e52bf085c47f67d8e79a9ace3640b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0100_jpg.rf.134e52bf085c47f67d8e79a9ace3640b",
+    "classical_ms": 6.25154199951794,
+    "sam2_ms": 1363.1437919975724,
+    "iou_classical_vs_sam2": 0.7868490289409575,
+    "box_xyxy": [
+      0,
+      0,
+      331,
+      303
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0111_jpg.rf.7a7653422291cf0f21e6c3a912b6a07b.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0111_jpg.rf.7a7653422291cf0f21e6c3a912b6a07b",
+    "classical_ms": 7.43187500120257,
+    "sam2_ms": 1355.351416998019,
+    "iou_classical_vs_sam2": 0.47091691856736484,
+    "box_xyxy": [
+      23,
+      65,
+      415,
+      325
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  },
+  {
+    "image": "data/full_dataset/valid/IMG_0116_jpg.rf.45228ba2568a4a6f525d1280526ca349.jpg",
+    "output_dir": "outputs/sam2_full/IMG_0116_jpg.rf.45228ba2568a4a6f525d1280526ca349",
+    "classical_ms": 9.436042000743328,
+    "sam2_ms": 1378.1572910011164,
+    "iou_classical_vs_sam2": 0.7734774066797541,
+    "box_xyxy": [
+      0,
+      91,
+      415,
+      415
+    ],
+    "sam2_model": "facebook/sam2-hiera-large"
+  }
+]

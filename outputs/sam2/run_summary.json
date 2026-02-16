@@ -2,8 +2,8 @@
   {
     "image": "data/sample_inputs/00_full.png",
     "output_dir": "outputs/sam2/00_full",
-    "classical_ms": 45.93320799904177,
-    "sam2_ms": 2712.147707999975,
+    "classical_ms": 48.32858400186524,
+    "sam2_ms": 3168.0052090014215,
     "iou_classical_vs_sam2": 0.6881808690396031,
     "box_xyxy": [
       178,
@@ -16,8 +16,8 @@
   {
     "image": "data/sample_inputs/01_dog_crop.png",
     "output_dir": "outputs/sam2/01_dog_crop",
-    "classical_ms": 25.05604199905065,
-    "sam2_ms": 1401.4443329979258,
+    "classical_ms": 25.970415998017415,
+    "sam2_ms": 1415.001375000429,
     "iou_classical_vs_sam2": 0.6751483971881653,
     "box_xyxy": [
       0,
@@ -30,8 +30,8 @@
   {
     "image": "data/sample_inputs/02_person_crop.png",
     "output_dir": "outputs/sam2/02_person_crop",
-    "classical_ms": 25.47370799948112,
-    "sam2_ms": 1295.7805000005465,
+    "classical_ms": 24.482417000399437,
+    "sam2_ms": 1284.7130420013855,
     "iou_classical_vs_sam2": 0.6587446130171579,
     "box_xyxy": [
       94,
@@ -44,8 +44,8 @@
   {
     "image": "data/sample_inputs/03_far_blurred.png",
     "output_dir": "outputs/sam2/03_far_blurred",
-    "classical_ms": 12.865374999819323,
-    "sam2_ms": 1290.9330840011535,
+    "classical_ms": 12.557582998852013,
+    "sam2_ms": 1362.7886250033043,
     "iou_classical_vs_sam2": 0.7140989899913102,
     "box_xyxy": [
       110,
@@ -58,8 +58,8 @@
   {
     "image": "data/sample_inputs/04_rotated.png",
     "output_dir": "outputs/sam2/04_rotated",
-    "classical_ms": 24.462207999022212,
-    "sam2_ms": 1293.2923750013288,
+    "classical_ms": 23.58950000052573,
+    "sam2_ms": 1334.650208002131,
     "iou_classical_vs_sam2": 0.7257154062723202,
     "box_xyxy": [
       156,
@@ -72,8 +72,8 @@
   {
     "image": "data/sample_inputs/05_noisy.png",
     "output_dir": "outputs/sam2/05_noisy",
-    "classical_ms": 24.266959000669885,
-    "sam2_ms": 1288.1641249987297,
+    "classical_ms": 23.32366699920385,
+    "sam2_ms": 1321.6232499980833,
     "iou_classical_vs_sam2": 0.5863898555560825,
     "box_xyxy": [
       155,
@@ -86,8 +86,8 @@
   {
     "image": "data/sample_inputs/06_gamma.png",
     "output_dir": "outputs/sam2/06_gamma",
-    "classical_ms": 22.459250001702458,
-    "sam2_ms": 1306.585582999105,
+    "classical_ms": 22.764624998671934,
+    "sam2_ms": 1334.4503330008592,
     "iou_classical_vs_sam2": 0.657835782824135,
     "box_xyxy": [
       154,
@@ -100,8 +100,8 @@
   {
     "image": "data/sample_inputs/07_two_dogs_synthetic.png",
     "output_dir": "outputs/sam2/07_two_dogs_synthetic",
-    "classical_ms": 15.233791000355268,
-    "sam2_ms": 1290.5976250003732,
+    "classical_ms": 17.352791997836903,
+    "sam2_ms": 1335.721209001349,
     "iou_classical_vs_sam2": 0.685707981558682,
     "box_xyxy": [
       0,
